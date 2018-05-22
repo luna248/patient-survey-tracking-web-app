@@ -1,2 +1,2 @@
-Home Page: home_nmd
+Home Page: home_nmd.php
 SQL File: NMD.sql
